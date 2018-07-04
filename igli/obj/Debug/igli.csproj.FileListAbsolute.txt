@@ -1,0 +1,7 @@
+C:\Users\hristo\Desktop\ACD\sort\igli\bin\Debug\igli.exe.config
+C:\Users\hristo\Desktop\ACD\sort\igli\bin\Debug\igli.exe
+C:\Users\hristo\Desktop\ACD\sort\igli\bin\Debug\igli.pdb
+C:\Users\hristo\Desktop\ACD\sort\igli\obj\Debug\igli.csprojResolveAssemblyReference.cache
+C:\Users\hristo\Desktop\ACD\sort\igli\obj\Debug\igli.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\ACD\sort\igli\obj\Debug\igli.exe
+C:\Users\hristo\Desktop\ACD\sort\igli\obj\Debug\igli.pdb
